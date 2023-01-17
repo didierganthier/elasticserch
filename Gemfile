@@ -73,3 +73,8 @@ group :test do
   gem "selenium-webdriver"
   gem "webdrivers"
 end
+
+# searchkick, elasticsearch, faker
+gem 'searchkick'
+gem 'elasticsearch', '~> 7.17'
+gem 'faker'
